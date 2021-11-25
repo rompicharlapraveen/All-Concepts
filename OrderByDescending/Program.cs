@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace OrderByDescending
+{
+    class Pet
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Pet[] pets = { new Pet { Name="Barley", Age=8 },
+                   new Pet { Name="Boots", Age=4 },
+                   new Pet { Name="Whiskers", Age=1 } };
+
+            IEnumerable<Pet> query = pets.OrderByDescending(pet => pet.Age);
+
+            foreach (Pet pet in query)
+            {
+                Console.WriteLine("{0} - {1}", pet.Name, pet.Age);
+            }
+        }
+    }
+}

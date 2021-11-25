@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\bin\Debug\netcoreapp3.1\LambdaMethods.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\bin\Debug\netcoreapp3.1\LambdaMethods.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\bin\Debug\netcoreapp3.1\LambdaMethods.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\bin\Debug\netcoreapp3.1\LambdaMethods.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\bin\Debug\netcoreapp3.1\LambdaMethods.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\bin\Debug\netcoreapp3.1\LambdaMethods.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.csprojAssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\LambdaMethods\obj\Debug\netcoreapp3.1\LambdaMethods.genruntimeconfig.cache

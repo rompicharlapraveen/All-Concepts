@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.csprojAssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\bin\Debug\netcoreapp3.1\NProperty.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\bin\Debug\netcoreapp3.1\NProperty.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\bin\Debug\netcoreapp3.1\NProperty.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\bin\Debug\netcoreapp3.1\NProperty.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\bin\Debug\netcoreapp3.1\NProperty.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\bin\Debug\netcoreapp3.1\NProperty.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\NProperty\obj\Debug\netcoreapp3.1\NProperty.genruntimeconfig.cache

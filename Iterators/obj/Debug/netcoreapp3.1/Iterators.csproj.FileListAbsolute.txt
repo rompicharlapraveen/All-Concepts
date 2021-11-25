@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\bin\Debug\netcoreapp3.1\Iterators.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\bin\Debug\netcoreapp3.1\Iterators.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\bin\Debug\netcoreapp3.1\Iterators.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\bin\Debug\netcoreapp3.1\Iterators.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\bin\Debug\netcoreapp3.1\Iterators.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\bin\Debug\netcoreapp3.1\Iterators.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.csprojAssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Iterators\obj\Debug\netcoreapp3.1\Iterators.genruntimeconfig.cache

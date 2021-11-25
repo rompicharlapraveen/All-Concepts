@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Regular_Expressions</RootNamespace>
+    <StartupObject>Regular_Expressions.ValidateAddress</StartupObject>
+  </PropertyGroup>
+
+</Project>

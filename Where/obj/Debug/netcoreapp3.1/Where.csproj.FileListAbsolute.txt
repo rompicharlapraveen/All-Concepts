@@ -1,0 +1,12 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\bin\Debug\netcoreapp3.1\Where.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\bin\Debug\netcoreapp3.1\Where.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\bin\Debug\netcoreapp3.1\Where.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\bin\Debug\netcoreapp3.1\Where.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\bin\Debug\netcoreapp3.1\Where.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\bin\Debug\netcoreapp3.1\Where.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\obj\Debug\netcoreapp3.1\Where.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\obj\Debug\netcoreapp3.1\Where.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\obj\Debug\netcoreapp3.1\Where.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\obj\Debug\netcoreapp3.1\Where.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\obj\Debug\netcoreapp3.1\Where.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Where\obj\Debug\netcoreapp3.1\Where.genruntimeconfig.cache

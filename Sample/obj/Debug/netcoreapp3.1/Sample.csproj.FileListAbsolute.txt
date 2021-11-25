@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\bin\Debug\netcoreapp3.1\Sample.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\bin\Debug\netcoreapp3.1\Sample.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\bin\Debug\netcoreapp3.1\Sample.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\bin\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.genruntimeconfig.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Sample\obj\Debug\netcoreapp3.1\Sample.csprojAssemblyReference.cache

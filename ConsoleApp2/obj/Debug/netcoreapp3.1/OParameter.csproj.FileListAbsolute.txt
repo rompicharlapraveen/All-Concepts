@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\OParameter.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\OParameter.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\OParameter.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\OParameter.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\OParameter.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\OParameter.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.genruntimeconfig.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\OParameter.csprojAssemblyReference.cache

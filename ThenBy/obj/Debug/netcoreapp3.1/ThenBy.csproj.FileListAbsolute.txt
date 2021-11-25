@@ -1,0 +1,12 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\bin\Debug\netcoreapp3.1\ThenBy.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\bin\Debug\netcoreapp3.1\ThenBy.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\bin\Debug\netcoreapp3.1\ThenBy.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\bin\Debug\netcoreapp3.1\ThenBy.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\bin\Debug\netcoreapp3.1\ThenBy.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\bin\Debug\netcoreapp3.1\ThenBy.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\obj\Debug\netcoreapp3.1\ThenBy.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\obj\Debug\netcoreapp3.1\ThenBy.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\obj\Debug\netcoreapp3.1\ThenBy.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\obj\Debug\netcoreapp3.1\ThenBy.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\obj\Debug\netcoreapp3.1\ThenBy.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ThenBy\obj\Debug\netcoreapp3.1\ThenBy.genruntimeconfig.cache

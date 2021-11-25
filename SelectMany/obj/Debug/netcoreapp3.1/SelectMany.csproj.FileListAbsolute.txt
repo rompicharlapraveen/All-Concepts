@@ -1,0 +1,12 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\bin\Debug\netcoreapp3.1\SelectMany.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\bin\Debug\netcoreapp3.1\SelectMany.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\bin\Debug\netcoreapp3.1\SelectMany.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\bin\Debug\netcoreapp3.1\SelectMany.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\bin\Debug\netcoreapp3.1\SelectMany.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\bin\Debug\netcoreapp3.1\SelectMany.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\obj\Debug\netcoreapp3.1\SelectMany.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\obj\Debug\netcoreapp3.1\SelectMany.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\obj\Debug\netcoreapp3.1\SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\obj\Debug\netcoreapp3.1\SelectMany.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\obj\Debug\netcoreapp3.1\SelectMany.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\SelectMany\obj\Debug\netcoreapp3.1\SelectMany.genruntimeconfig.cache

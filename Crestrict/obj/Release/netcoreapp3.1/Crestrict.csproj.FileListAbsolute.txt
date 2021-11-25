@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\bin\Release\netcoreapp3.1\Crestrict.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\bin\Release\netcoreapp3.1\Crestrict.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\bin\Release\netcoreapp3.1\Crestrict.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\bin\Release\netcoreapp3.1\Crestrict.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\bin\Release\netcoreapp3.1\Crestrict.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\bin\Release\netcoreapp3.1\Crestrict.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.csprojAssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\Crestrict\obj\Release\netcoreapp3.1\Crestrict.genruntimeconfig.cache

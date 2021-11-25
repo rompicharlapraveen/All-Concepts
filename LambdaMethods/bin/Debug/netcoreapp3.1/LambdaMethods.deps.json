@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LambdaMethods/1.0.0": {
+        "runtime": {
+          "LambdaMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LambdaMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\bin\Debug\netcoreapp3.1\ToList.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\bin\Debug\netcoreapp3.1\ToList.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\bin\Debug\netcoreapp3.1\ToList.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\bin\Debug\netcoreapp3.1\ToList.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\bin\Debug\netcoreapp3.1\ToList.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\bin\Debug\netcoreapp3.1\ToList.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\obj\Debug\netcoreapp3.1\ToList.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\obj\Debug\netcoreapp3.1\ToList.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\obj\Debug\netcoreapp3.1\ToList.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\obj\Debug\netcoreapp3.1\ToList.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\obj\Debug\netcoreapp3.1\ToList.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\ToList\obj\Debug\netcoreapp3.1\ToList.genruntimeconfig.cache

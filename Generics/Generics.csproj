@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Generics.NGHashtable</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="GDelegate.cs~RF1772838.TMP" />
+  </ItemGroup>
+
+</Project>

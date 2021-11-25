@@ -1,0 +1,9 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\bin\Debug\netstandard2.0\EmployeeDB.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\bin\Debug\netstandard2.0\EmployeeDB.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\bin\Debug\netstandard2.0\EmployeeDB.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\obj\Debug\netstandard2.0\EmployeeDB.csprojAssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\obj\Debug\netstandard2.0\EmployeeDB.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\obj\Debug\netstandard2.0\EmployeeDB.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\obj\Debug\netstandard2.0\EmployeeDB.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\obj\Debug\netstandard2.0\EmployeeDB.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\EmployeeDB\obj\Debug\netstandard2.0\EmployeeDB.pdb

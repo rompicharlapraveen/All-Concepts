@@ -1,0 +1,13 @@
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\bin\Debug\netcoreapp3.1\AllandAny.exe
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\bin\Debug\netcoreapp3.1\AllandAny.deps.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\bin\Debug\netcoreapp3.1\AllandAny.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\bin\Debug\netcoreapp3.1\AllandAny.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\bin\Debug\netcoreapp3.1\AllandAny.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\bin\Debug\netcoreapp3.1\AllandAny.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.csprojAssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.dll
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.pdb
+C:\Users\Praveen Rompicharla\source\repos\ConsoleApp1\AllandAny\obj\Debug\netcoreapp3.1\AllandAny.genruntimeconfig.cache

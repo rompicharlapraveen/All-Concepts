@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EV2bcxJFazMWvQEtcbakBtsO/8abwmMiW4/dt50wuQ5LPTgCV3e8guui9p4QRxsBqQ2Rd8U0CeeGIZtmS0UZig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Praveen Rompicharla\\source\\repos\\ConsoleApp1\\EmployeeDB\\EmployeeDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praveen Rompicharla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Praveen Rompicharla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
